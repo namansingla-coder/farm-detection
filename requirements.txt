@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+numpy
+pillow
+gdown
+pickle-mixin
+flask
+flask-cors
+torch
+torchvision

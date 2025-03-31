@@ -28,8 +28,8 @@ Ensure you have **Python 3.7+** installed.
 
 ### 📥 Clone the Repository
 ```sh
-git clone https://github.com/yourusername/farm-disease-detection.git
-cd farm-disease-detection
+git clone https://github.com/namansingla-coder/farm-detection.git
+cd farm-detection
 ```
 
 ### 📌 Install Required Dependencies
